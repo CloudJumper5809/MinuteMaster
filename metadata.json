@@ -1,0 +1,6 @@
+{
+  "name": "MinuteCraft AI - Automated MOM Generator",
+  "description": "Upload MP3 meeting recordings to automatically generate structured Minutes of Meeting (MOM) and export to Word (.docx) with executive dashboard and meeting history archive.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
